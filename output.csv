@@ -1,0 +1,17 @@
+Token,Identificação,Tamanho,Linha,Coluna
+while,Palavra Reservada,5,1,1
+i,Identificador (1),1,1,7
+<,Operador,1,1,9
+100,Constante (2),3,1,11
+do,Palavra Reservada,2,1,15
+i,Identificador (1),1,1,18
+=,Operador,1,1,20
+i,Identificador (1),1,1,22
++,Operador,1,1,24
+j,Identificador (3),1,1,26
+;,Terminador,1,1,27
+
+Índice,Símbolo
+1,i
+2,100
+3,j
